@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vedha3448/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vedha3448/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
