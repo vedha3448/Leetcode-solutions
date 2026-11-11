@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedha3448/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vedha3448/Leetcode-solutions/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vedha3448/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/vedha3448/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/vedha3448/Leetcode-solutions/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vedha3448/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vedha3448/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/vedha3448/Leetcode-solutions/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
