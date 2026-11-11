@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/vedha3448/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/vedha3448/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vedha3448/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vedha3448/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Algorithm X
 |  |
 | ------- |
