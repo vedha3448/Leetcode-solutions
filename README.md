@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vedha3448/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vedha3448/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vedha3448/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vedha3448/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
