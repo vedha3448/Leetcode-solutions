@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vedha3448/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vedha3448/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
