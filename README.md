@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vedha3448/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vedha3448/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vedha3448/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vedha3448/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
