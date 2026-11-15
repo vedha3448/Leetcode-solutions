@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vedha3448/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/vedha3448/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vedha3448/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vedha3448/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vedha3448/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vedha3448/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
