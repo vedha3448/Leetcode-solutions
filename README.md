@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vedha3448/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vedha3448/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vedha3448/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vedha3448/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vedha3448/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
