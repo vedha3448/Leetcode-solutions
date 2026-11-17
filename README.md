@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedha3448/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/vedha3448/Leetcode-solutions/tree/master/0068-text-justification) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vedha3448/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vedha3448/Leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vedha3448/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vedha3448/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vedha3448/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vedha3448/Leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vedha3448/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vedha3448/Leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vedha3448/Leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
